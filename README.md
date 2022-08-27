@@ -8,13 +8,13 @@ You can track any IP Address with Matador-IP. Matador-IP is developed not only f
 ### [+] Installation:
 * `apt update`
 * `apt install git curl -y`
-* `git clone git://github.com/htr-tech/track-ip.git`
-* `cd track-ip`
-### Run 👉 bash trackip
+* `git clone git://github.com/talhazmedia/matador-ip.git`
+* `cd matador-ip`
+### Run 👉 bash matador-ip
 
 ### Single Command:
 ``` 
-apt update ; apt install git curl -y ; git clone git://github.com/htr-tech/track-ip.git ; cd track-ip ; bash trackip
+apt update ; apt install git curl -y ; git clone git://github.com/talhazmedia/matador-ip.git ; cd matador-ip ; bash matador-ip
 ```
 
 #### credits: htr-tech
